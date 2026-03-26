@@ -1,6 +1,6 @@
 # RoximBook 
 
-**Post-Tester** tem como objetivo alcançar a conclusão da trilha 2;  
+**Post-Tester** tem como objetivo alcançar a conclusão da trilha 2 do curso HTML, CSS e JAVASCRIPT - Devstart(LAB365);  
 Trata-se de uma **landing page moderna** que simula rede social com **formulário dinâmico**, **consumo de API real** (`jsonplaceholder.typicode.com`) e **design glassmorphism** inspirado em Flutter (Essa não foi uma exigência do comando do curso, porém foi uma escolha pessoal).  
 
 ## 🎯 **Funcionalidades**  
